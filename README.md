@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Mazukiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazukiri&show_icons=true&theme=cobalt)](https://github.com/mazukiri/github-readme-stats)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazukiri&hide_progress=true)
