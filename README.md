@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Mazukiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazukiri&show_icons=true&theme=cobalt)](https://github.com/mazukiri/github-readme-stats)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazukiri&layout=compact)
+---
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/mazukiri/bbfce31e0217a3689c8d961a356cb10d/)
