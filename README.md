@@ -63,12 +63,3 @@ I am a senior Computer Science student at **Vietnam National University**, expec
 * **Rank 32/120 (Top 25%)** - ICPC Asia Ho Chi Minh City Regional (2025)
 * **Third Prize (Rank 56/440)** - ICPC Vietnam National Contest (2025)
 * **Rank 41/120 (Top 33%)** - ICPC Asia Hanoi Regional (2024)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazukiri&show_icons=true&theme=dracula&hide_border=true" alt="Mazukiri's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazukiri&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="40%" />
-</p>
