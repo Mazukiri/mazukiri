@@ -7,9 +7,6 @@
   </a>
   <a href="mailto:contact@mazukiri.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://mazukiri.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-Read_My_Blog-orange?style=for-the-badge&logo=substack" alt="Substack" />
-  </a>
 </p>
 
 ---
