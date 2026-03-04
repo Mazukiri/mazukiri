@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am a senior Computer Science student at **Vietnam National University**, expecting to graduate in **July 2027**. My passion lies in building high-performance backend systems, diving deep into OS internals, and solving algorithmic challenges.
+I am a senior Computer Science student at **Vietnam National University**, expecting to graduate in **December 2026**. My passion lies in building high-performance backend systems, diving deep into OS internals, and solving algorithmic challenges.
 
 * 🔭 I’m currently working on: **Distributed Microservices & Low-level System Design**.
 * 🏆 Competitive Programming: **ICPC Asia Regional Ranker** (Top 25%-33%).
